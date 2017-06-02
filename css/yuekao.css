@@ -1,0 +1,129 @@
+.body{
+	font-family: "微软雅黑";
+}
+
+.navbar-default .nav .first a{
+	color: #42a29b;
+}
+
+.lun2{
+	height: 503px;
+	background: #f8f7f1;
+}
+.lun2 .img-responsive{
+	width: 376px;
+	height: 209px;
+}
+.lun2  .container{
+	padding-top: 125px;
+}
+h4{
+	font-size: 25px;
+}
+.sold{
+	width:131px ;
+	height: 16px;
+	border-top: 2px #42a29b solid;
+}
+.ll{
+	margin-top: 129px;
+}
+.aa{
+	margin-right: 20px;
+}
+.dong{
+	height: 969px;
+	background: url(../img/images/1_08.jpg) repeat-x;
+}
+.se{
+	padding-top: 54px;
+}
+.yy{
+	background: #fff;
+}
+.button a{
+	margin-top: 107px;
+	margin-bottom: 70px;
+	border-radius: 15px;
+	border: 1px #42a29b solid;
+	color: #42A29B;
+}
+.ee a{
+	margin-top: 100px;
+	border-radius: 15px;
+	border: 1px #ffcb31 solid;
+	color: #000;
+}
+.ff{
+	margin-left: 70px;
+}
+.bot p,h5{
+	color: #fff;
+}
+.gg{
+	width: 372px;
+	margin-top: 238px;
+	box-shadow: 5px;
+	border: 0;
+}
+.panel{
+	margin-bottom: 66px;
+}
+.panel p{
+	color: #CCCCCC;
+}
+.panel h4{
+	margin-bottom: 30px;
+}
+.panel-body{
+	height: 86px;
+	color: #CCCCCC;
+}
+.panel h5{
+	color: #CCCCCC;
+}
+.panel h6{
+	margin-right: 10px;
+}
+.panel img{
+	width: 372px;
+	height: 268px;
+}
+.hh{
+	padding-top: 315px;
+}
+.ty .col-md-3{
+	width: 277px;
+	height: 150px;
+	border: 1px #CCCCCC solid;
+}
+.tu{
+	width: 100%;
+	height: 470px;
+	background: url(../img/images/w_48.jpg) no-repeat;
+	background-size: cover;
+}
+.dd{
+	margin-top: 38px;
+}
+.ly{
+	height: 115px;
+	line-height: 30px;
+}
+.ly b{
+	margin-top: 10px;
+	margin-left: 335px;
+	display: block;
+	margin-bottom: 10px;
+}
+span{
+	color: #CCCCCC;
+}
+.footer{
+	height: 100px;
+	line-height: 100px;
+	background: #ecf0f3;
+}
+.footer h6{
+	margin-top: 40px;
+}
